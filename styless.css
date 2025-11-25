@@ -1,0 +1,45 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    text-align: center;
+
+    
+}
+
+
+body {
+    text-align: center;
+}
+
+div {
+    margin: 20px;
+}
+
+body {
+    background-image: url("diabetes.png");
+    background-size: cover;
+}
+
+h1 {
+    color: black;
+}
+
+p {
+    text-align: left;
+}
+li {
+    font-style: italic;
+    font-style: oblique;
+    text-align: left;
+}
+
+h2 {
+    text-align: left;
+}
+
+
+ul {
+    text-align: center;
+}
+
